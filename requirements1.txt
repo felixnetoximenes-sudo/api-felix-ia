@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+torch --index-url https://pytorch.org
+pydantic
